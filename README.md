@@ -13,10 +13,8 @@ Class Takeaways:
 -Better identify the degree to which the Embedded Systems field aligns with their career interests
 
 
-
-Final Project:
 This semester in CPRE 288, we worked with a Roomba (also called a  Cybot) to strengthen our embedded systems skills. We learned to print on an LCD, move the Cybot, track push buttons, 
 communicate with the Cybot, implement interrupts, use sensors, and configure serial communication with UART. We used C programming language to write code to implement our ideas on the Cybot.
-My lab partner and I worked together to write and test our programs. We used Code Composer Studio to write/edit our code. When we compiled, we sent our program to the Cybot to test our software. 
+My lab partner and I worked together to write and test our programs using Code Composer Studio. When complete, we sent our program to the Cybot to test our software. 
 We interacted with the hardware by setting up obstacles, pressing the push buttons, and reading the LCD screen. As a computer engineering student, this class prepared me to work in the field of 
-embedded systems. This class allowed me to improve my c programming skills while learning about important hardware concepts. 
+embedded systems. This class allowed me to improve my C programming skills while learning about important hardware concepts. 
