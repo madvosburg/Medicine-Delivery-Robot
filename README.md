@@ -3,7 +3,7 @@ Class Takeaways:
 -Read datasheets/manuals in order to develop practical applications
 -Perform basic hardware and software debugging
 -Program in C for the ARM Cortex M4 based Microcontroller
--Understand basic computing concepts such as interrupts, interrupt service routines (ISR), Memeory Mapped Input/Output (I/O), simplified processor architecture, registers, program & data memory structure.
+-Understand basic computing concepts such as interrupts, interrupt service routines (ISR), Memory Mapped Input/Output (I/O), simplified processor architecture, registers, program & data memory structure.
 -Generate and Interpret signals to interact with the world
 -UART base serial communication
 -Analog to Digital Conversion (ADC)
