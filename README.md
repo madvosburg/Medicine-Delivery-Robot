@@ -1,3 +1,5 @@
+CPRE 288- Embedded Systems I
+
 Class Takeaways:
 -Program and design applications for embedded systems
 -Read datasheets/manuals in order to develop practical applications
